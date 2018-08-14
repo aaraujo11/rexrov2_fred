@@ -85,8 +85,8 @@
   </xacro:default_chemical_concentration_sensor_macro> -->
 
   <!-- Mount Beacon Sensor  -->
-  <xacro:default_beacon namespace="${namespace}" parent_link="${namespace}/base_link">
+  <!-- <xacro:default_beacon namespace="${namespace}" parent_link="${namespace}/base_link">
     <origin xyz="0 0 0" rpy="0 0 0"/>
-  </xacro:default_beacon>
+  </xacro:default_beacon> -->
 
 </robot>
